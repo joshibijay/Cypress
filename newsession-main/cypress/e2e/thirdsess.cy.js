@@ -1,4 +1,5 @@
 ///<reference types ="Cypress" />
+// Third session in the Base url
 // const url = "http://172.31.1.13:1902/"
 const username = Cypress.env('username')
 const password = Cypress.env('password')
