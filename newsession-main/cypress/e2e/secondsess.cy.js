@@ -1,4 +1,5 @@
-describe ('CIT', function(){
+// second session in assertion
+describe ('Citizen investment Trust', function(){
   beforeEach(()=>{
       cy.visit('/');
   })
